@@ -1,6 +1,7 @@
 ## 欢迎来到曹大元的GitHub个人主页
 
 ![头像](https://github.com/CdyUp/cdyup.github.io/blob/main/IMG_2172%202.jpg)
+
 曹大元，合肥工业大学计算机与信息学院（人工智能学院）计算机科学与技术专业本科生。
 
 ### 联系方式
